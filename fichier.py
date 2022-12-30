@@ -10,7 +10,7 @@ def impr(nombre):
     
     
     
-    while 0<nombre:
+    while 0<nombre: #definition d'une boucle
         print(i)
         
         nombre-=1
